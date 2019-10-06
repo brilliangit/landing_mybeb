@@ -1,0 +1,30 @@
+server {
+        listen 80;
+
+        server_name dev-mybeb.com;
+        client_max_body_size 2M;
+        fastcgi_buffers 16 16k; 
+        fastcgi_buffer_size 32k;        
+
+
+        root /home/bimasakti/landing-mybob;
+        index index.php index.html;
+
+        location / {
+                try_files $uri $uri/ /index.php?$query_string;
+        }
+
+        location ~ /(application|system) {
+                deny all;
+                return 403;
+        }
+
+        include snippets/enable-php.conf; 
+
+        location ~ /\.ht {
+                deny all;
+        }
+        location ~ \.php$ {
+                fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        }
+}
