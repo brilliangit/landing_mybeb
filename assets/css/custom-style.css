@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 5, 2019, 4:26:40 PM
+    Author     : Brillian Andrie Nugroho Wiguno <brillianandrie@gmail.com>
+*/
+.img-responsive > img {
+    margin-bottom: 20px;
+}
+
+ol.list, ul.list{
+    margin: 0 0 0 15px;
+}
+ol.list  li, ul.list  li{
+    list-style: unset !important;
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+.bold{
+    font-weight: bold;
+    color: #333333;
+}
