@@ -45,16 +45,16 @@ class MY_Controller extends CI_Controller {
                 $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
                 break;
             case 'ovo':
-                $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
-                $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
+                $head['meta_descriptions'] = 'Yuk top up saldo OVO kamu di MyBeb sekarang, ada voucher KFC senilai 50.000 gratis. Ayo isi saldo OVO kamu sekarang!.';
+                $head['title_page'] = 'MyBeb - Top Up Saldo OVO - Grab - Bonus Voucher McD 100.000';
                 break;
             case 'gopay':
-                $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
-                $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
+                $head['meta_descriptions'] = 'Yuk top up saldo Gopay kamu di MyBeb sekarang, ada voucher KFC senilai 50.000 gratis. Ayo isi saldo Gopay kamu sekarang!.';
+                $head['title_page'] = 'MyBeb - Top Up Saldo Gopay - Bonus Voucher KFC 50.000';
                 break;
             case 'dana':
-                $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
-                $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
+                $head['meta_descriptions'] = 'Yuk top up saldo DANA kamu di MyBeb sekarang, ada voucher McD senilai 50.000 gratis. Ayo isi saldo DANA sekarang!';
+                $head['title_page'] = 'MyBeb - Top Up Saldo DANA - TIX ID di MyBeb';
                 break;
             default:
                 $head['meta_descriptions'] = 'Ini meta desc default';
