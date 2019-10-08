@@ -12,7 +12,7 @@ and open the template in the editor.
 }
 
 ol.list, ul.list{
-    margin: 0 0 0 15px;
+    margin: 0 0 10px 15px;
 }
 ol.list  li, ul.list  li{
     list-style: unset !important;
@@ -23,4 +23,10 @@ ol.list  li, ul.list  li{
 .bold{
     font-weight: bold;
     color: #333333;
+}
+.text-red{
+    color: red;
+}
+.text-blue{
+    color: blue;
 }
