@@ -44,6 +44,18 @@ class MY_Controller extends CI_Controller {
                 $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
                 $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
                 break;
+            case 'ovo':
+                $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
+                $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
+                break;
+            case 'gopay':
+                $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
+                $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
+                break;
+            case 'dana':
+                $head['meta_descriptions'] = 'Yuk bayar cicilan online di MyBeb dan dapatkan voucher McD sebesar 100 RIBU. Bayar angsuran kamu segera ya dan raih vouchernya.';
+                $head['title_page'] = 'MyBeb - Bayar Cicilan Online di MyBeb Bonus Voucher McD';
+                break;
             default:
                 $head['meta_descriptions'] = 'Ini meta desc default';
                 $head['title_page'] = 'Ini title default';
