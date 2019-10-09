@@ -55,6 +55,9 @@ class MY_Controller extends CI_Controller {
             case 'dana':
                 $head['meta_descriptions'] = 'Yuk top up saldo DANA kamu di MyBeb sekarang, ada voucher McD senilai 50.000 gratis. Ayo isi saldo DANA sekarang!';
                 $head['title_page'] = 'MyBeb - Top Up Saldo DANA - TIX ID di MyBeb';
+            case 'indihome':
+                $head['meta_descriptions'] = 'Yuk segera cek dan bayar tagihan Indihome kamu di aplikasi MyBeb. Ada banyak bonus dan voucher gratis yang bisa kamu dapatkan, gratis.';
+                $head['title_page'] = 'MyBeb - Cek dan Bayar Tagihan Indihome Auto Bonus';
                 break;
             default:
                 $head['meta_descriptions'] = 'Ini meta desc default';
