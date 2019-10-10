@@ -51,6 +51,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'mybeb';
 $route['(:any)'] = 'article/show_article/$1';
-$route['([a-zA-Z0-9_-]+)/(:any)'] = 'article/show_article/$2';
+$route['([a-zA-Z0-9_-]+)/(:any)'] = 'article/show_article/$1/$2';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
