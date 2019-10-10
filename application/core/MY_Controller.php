@@ -56,6 +56,10 @@ class MY_Controller extends CI_Controller {
                 $head['meta_descriptions'] = 'Hari ini bayar tagihan kartu kredit bisa dilakukan di aplikasi MyBeb. Bayar tagihan kartu kredit jadi lebih mudah dan dapat voucher gratis.';
                 $head['title_page'] = 'MyBeb - Bayar Tagihan Kartu Kredit di MyBeb';
                 break;
+            case 'tagihan/pascabayar':
+                $head['meta_descriptions'] = 'Hari ini bayar tagihan pascabayar bisa dilakukan di aplikasi MyBeb. Bayar tagihan jadi lebih mudah, lebih untuk dan dapat voucher gratis.';
+                $head['title_page'] = 'MyBeb - Cek dan Bayar Tagihan Pascabayar di MyBeb';
+                break;
             case 'topup/ovo':
                 $head['meta_descriptions'] = 'Yuk top up saldo OVO kamu di MyBeb sekarang, ada voucher KFC senilai 50.000 gratis. Ayo isi saldo OVO kamu sekarang!.';
                 $head['title_page'] = 'MyBeb - Top Up Saldo OVO - Grab - Bonus Voucher McD 100.000';
@@ -71,10 +75,22 @@ class MY_Controller extends CI_Controller {
                 $head['meta_descriptions'] = 'Ini adalah cara mendapatkan joox VIP secara langsung dan paling gampang. Cukup degan install MyBeb, langsung dapat JOOX VIP.';
                 $head['title_page'] = 'MyBeb - Cara Mendapatkan JOOX VIP';
                 break;
-//            case 'joox':
-//                $head['meta_descriptions'] = 'Yuk segera install MyBeb dan inilah cara mendapatkan saldo OVO gratis paling gampang. Segera install dan raih saldo sebanyak-banyaknya.';
-//                $head['title_page'] = 'MyBeb - Cara Mendapatkan Saldo OVO Gratis';
-//                break;
+            case 'voucher/ovo':
+                $head['meta_descriptions'] = 'Yuk segera install MyBeb dan inilah cara mendapatkan saldo OVO gratis paling gampang. Segera install dan raih saldo sebanyak-banyaknya.';
+                $head['title_page'] = 'MyBeb - Cara Mendapatkan Saldo OVO Gratis';
+                break;
+            case 'voucher/spotify':
+                $head['meta_descriptions'] = 'Yuk segera install MyBeb dan dapatkan spotify premium. Dapatkan juga manfaat lainnya seperti voucher kfc gratis dan voucher McD gratis.';
+                $head['title_page'] = 'MyBeb - Cara Mendapatkan Spotify Premium';
+                break;
+            case 'voucher/mcd-gratis':
+                $head['meta_descriptions'] = 'Yuk segera install MyBeb dan dapatkan voucher McD gratis. Dapatkan juga manfaat lainnya seperti voucher kfc gratis dan saldo Gopay gratis.';
+                $head['title_page'] = 'MyBeb - Cara Mendapatkan Voucher McD Gratis';
+                break;
+            case 'voucher/kfc':
+                $head['meta_descriptions'] = 'Yuk segera install MyBeb dan dapatkan voucher KFC gratis. Dapatkan juga manfaat lainnya seperti voucher McD gratis dan saldo Grab gratis.';
+                $head['title_page'] = 'MyBeb - Cara Mendapatkan Voucher KFC Gratis';
+                break;
             default:
                 $head['meta_descriptions'] = 'Ini meta desc default';
                 $head['title_page'] = 'Ini title default';
