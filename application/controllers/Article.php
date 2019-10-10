@@ -7,9 +7,10 @@
  */
 class Article extends MY_Controller {
 
-    function show_article($title) {
-        $data = $this->get_meta($title);
-        $this->render(strtolower($title), $data);
+    function show_article(...$paths) {
+        $path = implode('/', $paths);
+        $data = $this->get_meta($path);
+        $this->render(strtolower($path), $data);
     }
 
 }
