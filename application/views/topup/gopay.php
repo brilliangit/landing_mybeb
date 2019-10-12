@@ -20,6 +20,18 @@
                         <div class="img-responsive">
                             <img src="<?= base_url('/assets/img/top-up-saldo-gopay.jpg') ?>" alt="5 Aplikasi Pembayaran Online Terbaik di Android">
                         </div>
+                        <div class="form-apen-apen">
+                            <select class="token">
+                                <option>20.000</option>
+                                <option>50.000</option>
+                                <option>100.000</option>
+                                <option>200.000</option>
+                                <option>500.000</option>
+                                <option>1.000.000</option>
+                            </select>
+                            <input type="number" name="ID Pelanggan" value="" placeholder="Masukan No HP" ><br>
+                            <a href="http://bit.ly/installMyBeb" target="_blank">Bayar Tagihan Listrik</a><br>
+                        </div>
                         <p>MyBeb - Hari gini siapa sih yang tidak pakai aplikasi Gojek? Aplikasi yang serba bisa ini kini sudah memasuki relung kehidupan masyarakat Indonesia, khususnya yang tinggal di daerah perkotaan. Aplikasi Gojek bukan hanya menawarkan layanan antar jemput dan pembelian makanan saja, kini Gojek telah berekspansi ke semua aspek kebutuhan harian manusia. Keren abis kan?
                         </p>
                         <p>Bagi masyarakat kota, Gojek adalah salah satu aplikasi yang wajib diinstall. Selain memudahkan, dengan aplikasi ini mobilitas masyarakat jadi lebih lancar. Karenanya, mereka selalu top up gopay agar saldo Gojeknya tetap terisi.
