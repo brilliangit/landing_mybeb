@@ -20,6 +20,10 @@
                         <div class="img-responsive">
                             <img src="<?= base_url('/assets/img/bayar-bpjs-kesehatan.jpg') ?>" alt="5 Aplikasi Pembayaran Online Terbaik di Android">
                         </div>
+                        <div class="form-apen-apen">
+                            <input type="number" name="ID pelanggan" value="" placeholder="Masukan ID Pelanggan" ><br>
+                            <a href="http://bit.ly/installMyBeb" target="_blank">Bayar Iuran BPJS</a><br>
+                        </div>
                         <p>
                             <font class="text-red">MyBeb</font> - Sejak diluncurkannya BPJS Kesehatan, kini masyarakat dengan ekonomi menengah ke bawah tetap menerima layanan kesehatan yang baik dan terjamin. Tidak ada lagi rasa takut untuk periksa ke dokter atau menjalani perawatan di rumah sakit, karena semua sudah ditanggung oleh BPJS Kesehatan.
                         </p>

@@ -51,11 +51,11 @@
                             Buat kamu pecinta game Free Fire dan penggemar Kemas Pakai Z, kamu bisa beli diamond dengan mudah di aplikasi Mybeb. Disini tersedia jumlah diamond yang bervarian. Berikut langkah-langkahnya:
                         </p>
                         <ol type="1" class="list">
-                            <li>Buka <font class="bold">aplikasi Mybeb</font>. Bila belum ada, silahkan download di playstore</li>
+                            <li>Buka <font class="bold">aplikasi Mybeb</font>. Bila belum ada, silahkan download di <font class="text-red bold">playstore</font></li>
                             <li>Pilih menu <font class="bold">Bayar</font></li>
                             <li>Pilih <font class="bold">layanan Voucher Game</font></li>
                             <li>Pilih game <font class="bold">Free Fire</font>.</li>
-                            <li>Masukkan <font class="bold">ID Free Fire</font kamu</font></li>
+                            <li>Masukkan <font class="bold">ID Free Fire kamu</font></li>
                             <li>Pilih jumlah Diamond yang kamu inginkan</li>
                             <li>Klik <font class="bold">Lanjutkan</font></li>
                             <li>Setelah detail tagihan muncul, pilih metode pembayaran yang kamu inginkan</li>
@@ -106,7 +106,7 @@
                             ika kamu <font class="bold">top up diamond Free Fire</font> namun transaksi dinyatakan gagal, maka dana terpotong akan dikembalikan ke limit kartu kredit di tagihan bulan berikutnya. Cek kembali jumlah pembelian diamond Free Fire kamu dan pada bulan berikutnya pastikan limit telah dikembalikan sesuai nominal. Apabila masih ada kendala pada limit kartu kredit, silakan hubungi Customer Service Mybeb.
                         </p>
                         <p>
-                            Demikian ulasan seputar top up Diamond Free Fire di aplikasi MyBeb. Jangan lupa beli juga voucher game lainnya seperti <font class="bold">diamond Mobile Legends1, voucher PUBG, Garena Shell dan Voucher G Cash Gemscool</font>.
+                            Demikian ulasan seputar top up Diamond Free Fire di aplikasi MyBeb. Jangan lupa beli juga voucher game lainnya seperti <font class="bold">diamond Mobile Legends, voucher PUBG, Garena Shell dan Voucher G Cash Gemscool</font>.
                         </p>
                     </div>
                 </div>

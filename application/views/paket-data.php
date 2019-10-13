@@ -43,7 +43,7 @@
                         </p>
                         <h2>Axis</h2>
                         <p>
-                            Axis juga merupakan penyedia jasa telekomunikasi yang bernaung di bawah XL Axiata. Axis hadir sebagai sebagai penyasar kalangan anak muda dengan harga layanan yang cukup terjangkau dan pas di kantong. Paket data internet termurah1 yang paling populer dari Axis adalah paket Bronet dan Paket BB Irit Fun.
+                            Axis juga merupakan penyedia jasa telekomunikasi yang bernaung di bawah XL Axiata. Axis hadir sebagai sebagai penyasar kalangan anak muda dengan harga layanan yang cukup terjangkau dan pas di kantong. <font class="bold">Paket data internet termurah</font> yang paling populer dari Axis adalah paket Bronet dan Paket BB Irit Fun.
                         </p>
                         <h2>3 / Tri</h2>
                         <p>
@@ -67,12 +67,12 @@
                             Untuk memenuhi kebutuhan pengguna, MyBeb menghadirkan layanan beli paket data internet semua operator. Cukup dengan 1 aplikasi saja, kamu bisa membeli paket internet dengan harga yang terjangkau. Berikut langkah-langkahnya:
                         </p>
                         <ol type="1" class="list">
-                            <li>Buka aplikasi Mybeb. Bila belum ada, silahkan download di playstore</li>
-                            <li>Pilih menu “Bayar”</li>
-                            <li>Pilih layanan “Paket Data”</li>
-                            <li>Masukkan Nomo HP kamu</li>
-                            <li>Pilih Paket Data yang kamu inginkan</li>
-                            <li>Setelah detail tagihan muncul, klik “Lanjutkan”</li>
+                            <li>Buka <font class="bold">aplikasi Mybeb</font>. Bila belum ada, silahkan download di <font class="text-red">playstore</font></li>
+                            <li>Pilih menu <font class="bold">“Bayar”</font></li>
+                            <li>Pilih layanan <font class="bold">“Paket Data”</font></li>
+                            <li>Masukkan <font class="bold">Nomor HP</font> kamu</li>
+                            <li>Pilih <font class="bold">Paket Data</font> yang kamu inginkan</li>
+                            <li>Setelah detail tagihan muncul, klik <font class="bold">“Lanjutkan”</font></li>
                             <li>Lalu silahkan pilih metode pembayaran yang kamu inginkan</li>
                             <li>Ikuti petunjuk masing-masing metode pembayaran</li>
                         </ol>
@@ -104,7 +104,7 @@
                             Apabila saat pembelian paket data internet kamu salah memasukkan nomor, pihak Mybeb tidak bertanggung jawab atas kesalah tersebut. Karenanya harap teliti lebih lanjut sebelum melakukan pembayaran terkait data pembelian.
                         </p>
                         <p>
-                            Demikian ulasan seputar beli paket data internet1 termurah di aplikasi MyBeb. Jangan lupa bayar tagihan kamu lainnya di aplikasi Mybeb, seperti tagihan listrik2, tagihan PDAM3, tagihan Indihome4, maupun iuran BPJS Kesehatan5.
+                            Demikian ulasan seputar <font class="bold">beli paket data internet</font> termurah di aplikasi MyBeb. Jangan lupa bayar tagihan kamu lainnya di aplikasi Mybeb, seperti <font class="bold">tagihan listrik, tagihan PDAM, tagihan Indihome, maupun iuran BPJS Kesehatan</font>.
                         </p>
                     </div>
                 </div>

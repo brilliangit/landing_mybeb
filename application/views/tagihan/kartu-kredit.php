@@ -46,12 +46,12 @@
                             Namun butuh dimengerti leasing serta credit angsuran mempunyai beberapa ketidaksamaan. Leasing tidak mengharuskan orang yang lakukan mengajukan pembiayaan untuk lakukan perawatan atau pemeliharaan berkaitan barang yang dicicil, sedang barang yang dibeli dengan credit cicilan jadi tanggung jawab penuh debitur.
                         </p>
                         <ol type="1" class="list">
-                            <li>Buka aplikasi MyBeb. Silahkan download dulu bila belum punya di playstore</li>
-                            <li>Pilih fitur Bayar</li>
-                            <li>Pilih layanan “Pascabayar”</li>
-                            <li>Pilih produk Cicilan Anda</li>
-                            <li>Masukkan ID pelanggan</li>
-                            <li>Klik “Lanjutkan”</li>
+                            <li>Buka <font class="bold">aplikasi MyBeb</font>. Silahkan download dulu bila belum punya di <font class="text-red">playstore</font></li>
+                            <li>Pilih <font class="bold">fitur Bayar</font></li>
+                            <li>Pilih layanan <font class="bold">“Pascabayar”</font></li>
+                            <li>Pilih produk <font class="bold">Cicilan</font> Anda</li>
+                            <li>Masukkan <font class="bold">ID pelanggan</font></li>
+                            <li>Klik <font class="bold">“Lanjutkan”</font></li>
                             <li>Pilih metode pembayaran yang kamu inginkan</li>
                             <li>Proses pembayaran</li>
                             <li>Anda akan mendapatkan notifikasi setelah pembayaran sukses</li>

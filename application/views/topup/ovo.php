@@ -21,20 +21,24 @@
                         <div class="img-responsive">
                             <img src="<?= base_url('/assets/img/top-up-saldo-ovo.jpg') ?>" alt="5 Aplikasi Pembayaran Online Terbaik di Android">
                         </div>
+                        <div class="form-apen-apen">
+                            <input type="number" name="ID pelanggan" value="" placeholder="Masukan No telepon" ><br>
+                            <a href="http://bit.ly/installMyBeb" target="_blank">Top Up Saldo OVO</a><br>
+                        </div>
                         <p>
-                            MyBeb - Sejak popularitas dompet online kian mencuat, OVO sebagai salah satu dompet online terbaru berhasil menjadi sorotan masyarakat Indonesia. Dengan beragam program dan serba diskonnya yang tiada henti, kini OVO bisa dikatakan sebagai dompet online terbaik setelah Gopay.
+                            <font class="text-red">MyBeb</font> - Sejak popularitas dompet online kian mencuat, OVO sebagai salah satu dompet online terbaru berhasil menjadi sorotan masyarakat Indonesia. Dengan beragam program dan serba diskonnya yang tiada henti, kini OVO bisa dikatakan sebagai dompet online terbaik setelah Gopay.
                         </p>
                         <p>
                             Selain sebagai dompet online, OVO juga menyediakan beragam layanan pembayaran tagihan yang bisa digunakan penggunanya. Mulai dari bayar tagihan listrik, beli pulsa dan paket data, bayar tagihan PDAM dan bayar iuran BPJS Kesehatan.
                         </p>
                         <p>
-                            Kabar baiknya, bila kamu pengguna setia Grab, salah satu ojek online, kamu tidak perlu bingung lagi soal top up saldo. Kini OVO telah resmi menjadi dompet resmi aplikasi Grab. Jadi, saldo OVO sama dengan saldo Grab. Makanya top up saldo OVO1 kamu selalu agar terus dapat untung.
+                            Kabar baiknya, bila kamu pengguna setia Grab, salah satu ojek online, kamu tidak perlu bingung lagi soal top up saldo. Kini OVO telah resmi menjadi dompet resmi aplikasi Grab. Jadi, saldo OVO sama dengan saldo Grab. Makanya <font class="text-blue">top up saldo OVO</font> kamu selalu agar terus dapat untung.
                         </p>
                         <h2>
                             Yuk Top Up Saldo OVO di MyBeb
                         </h2>
                         <p>
-                            Buat kamu yang rajin top up saldo OVO di MyBeb bakal dapat kesempatan menangin voucher McD senilai 100 ribu rupiah. Dengan mengumpulkan poin CINTA dari setiap aktivitas kamu di MyBeb dan aktivitas transaksi, kamu bisa menukarkannya dengan voucher makan gratis di McD loh.
+                            Buat kamu yang rajin <font class="text-blue">top up saldo OVO</font> di MyBeb bakal dapat kesempatan menangin voucher McD senilai 100 ribu rupiah. Dengan mengumpulkan poin CINTA dari setiap aktivitas kamu di MyBeb dan aktivitas transaksi, kamu bisa menukarkannya dengan voucher makan gratis di McD loh.
                         </p>
                         <p>
                             Kalau misal kamu sudah bosan McD atau kurang cocok, tenang saja. MyBeb sudah menyediakan beragam voucher yang bisa kamu pilih dari hasil penukaran poin CINTA kamu. Ada voucher makan gratis KFC senilai 50.000, ada saldo Gopay gratis, saldo OVO gratis, sampai uang tunai gratis.
@@ -43,7 +47,7 @@
                             Eh iya, jika kamu khawatir tidak bisa top up dengan nominal banyak, di MyBeb kamu bisa top up  sampai 500 ribu langsung dalam sehari. Jadi, ndak perlu ngulang-ngulang lagi deh.
                         </p>
                         <p>
-                            Belum lagi kamu juga bisa menikmati layanan premium seperti transfer dana, top up saldo OVO hingga 10 juta rupiah dan gratis menikmati lebih dari 350 layanan pembayaran. Woow, amazing sekali kan?
+                            Belum lagi kamu juga bisa menikmati layanan premium seperti transfer dana, <font class="text-blue">top up saldo OVO</font> hingga 10 juta rupiah dan gratis menikmati lebih dari 350 layanan pembayaran. Woow, amazing sekali kan?
                         </p>
                         <p>
                             Yuk segera isi saldo OVO kamu dan dapatkan diskon menarik dari OVO!
@@ -52,15 +56,15 @@
                             Cara Top Up Saldo OVO di MyBeb
                         </h2>
                         <P>
-                            Berikut adalah panduan top up saldo OVO1 di aplikasi MyBeb.
+                            Berikut adalah panduan <font class="text-blue">top up saldo OVO</font> di aplikasi MyBeb.
                         </P>
                         <ol class="list" type="1">
-                            <li>Buka aplikasi Mybeb kamu. Bila belum ada, silahkan download di playstore</li>
-                            <li>Pilih menu “Bayar”</li>
-                            <li>Pilih layanan “Grab”</li>
-                            <li>Pilih Nominal Saldo OVO</li>
-                            <li>Masukkan nomor kamu yang terdaftar di OVO</li>
-                            <li>Klik “Lanjutkan”</li>
+                            <li>Buka <font class="bold">aplikasi Mybeb</font> kamu. Bila belum ada, silahkan download di <font class="text-red bold">playstore</font></li>
+                            <li>Pilih menu <font class="bold">“Bayar”</font></li>
+                            <li>Pilih layanan <font class="bold">“Grab”</font></li>
+                            <li>Pilih Nominal <font class="bold">Saldo OVO</font></li>
+                            <li>Masukkan <font class="bold">nomor kamu</font> yang terdaftar di OVO</li>
+                            <li>Klik <font class="bold">“Lanjutkan”</font></li>
                             <li>Lalu silahkan pilih metode pembayaran yang kamu inginkan</li>
                             <li>Ikuti petunjuk masing-masing metode pembayaran </li>
                         </ol>
@@ -130,7 +134,7 @@
                             Untuk menikmati akun OVO Premier kamu cukup mengirimkan Foto KTP lewati aplikasi OVO dan kirimkan konfirmasi identitas. Tunggu beberapa saat sampai kamu menerima konfirmasi upgrade akun ke Premier.
                         </p>
                         <p>
-                            Yups. Demikian ulasan singkat tentang panduan top up saldo OVO1 di aplikasi MyBeb. Jangan lupa bayar tagihan kamu lainnya ya, seperti bayar tagihan listrik PLN2, tagihan PDAM3, iuran BPJS Kesehatan4 dan top up saldo Gopay5.
+                            Yups. Demikian ulasan singkat tentang panduan <font class="bold">top up saldo OVO</font> di aplikasi MyBeb. Jangan lupa bayar tagihan kamu lainnya ya, seperti <font class="text-red bold">bayar tagihan listrik PLN, tagihan PDAM, iuran BPJS Kesehatan dan top up saldo Gopay</font>.
                         </p>
                     </div>
                 </div>

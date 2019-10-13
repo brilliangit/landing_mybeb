@@ -20,6 +20,10 @@
                         <div class="img-responsive">
                             <img src="<?= base_url('/assets/img/bayar-cicilan-online.jpg') ?>" alt="5 Aplikasi Pembayaran Online Terbaik di Android">
                         </div>
+                        <div class="form-apen-apen">
+                            <input type="number" name="ID pelanggan" value="" placeholder="Masukan ID Kontrak" ><br>
+                            <a href="http://bit.ly/installMyBeb" target="_blank">Bayar Cicilan</a><br>
+                        </div>
                         <p>
                             Kali ini kina tengah populer di masyarakat, “Sekarang semuanya serba kredit.” Di era sekarang, kebutuhan hidup semakin kompleks dan biaya juga semakin meroket. Tak heran jika fasilitas cicilan atau kredit kini dan bayar cicilan online1 kian populer.
                         </p>
